@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 - 🐱 ☁ 🐧 🐳 ☸️ ⛵️
 -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatselim-turib&layout=compact)
-
-
-![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=serhatselim-turib&count_private=true&show_icons=true&theme=graywhite) 
+ 
 
 
  ### :octocat: Starred Topics
