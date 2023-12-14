@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 - 🐱 ☁ 🐧 🐳 ☸️ ⛵️
 -->
 
- 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhatSelim&layout=compact)
+
+
+![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=SerhatSelim&count_private=true&show_icons=true&theme=graywhite) 
 
 
  ### :octocat: Starred Topics
@@ -84,6 +87,6 @@ Here are some ideas to get you started:
 </p>
 
 ### 📫 How to reach me: 
-
+[![GitHub](https://img.shields.io/badge/GitHub-serhatselim-blue?style=flat&link=https://github.com/SerhatSelim)](https://github.com/SerhatSelim)
 [![](https://img.shields.io/badge/medium-serhatselim.medium-blue)](https://serhatselim.medium.com/)
 [![Linkedin: serhatselim](https://img.shields.io/badge/-serhatselim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhat-selim)](https://www.linkedin.com/in/serhat-selim)
