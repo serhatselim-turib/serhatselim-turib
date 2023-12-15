@@ -19,12 +19,9 @@ Here are some ideas to get you started:
 - 🐱 ☁ 🐧 🐳 ☸️ ⛵️
 -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhatSelim&layout=compact)
-
-
-![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=SerhatSelim&count_private=true&show_icons=true&theme=graywhite) 
-
-
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="./dev-working_rounded.gif" alt="working developer">
+</p>
  ### :octocat: Starred Topics
 <p align="left">
   <a href="https://github.com/topics/dotnet">
@@ -85,6 +82,11 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40">
   </a>
 </p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhatSelim&layout=compact)
+
+
+![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=SerhatSelim&count_private=true&show_icons=true&theme=graywhite) 
 
 ### 📫 How to reach me: 
 [![GitHub](https://img.shields.io/badge/GitHub-serhatselim-blue?style=flat&link=https://github.com/SerhatSelim)](https://github.com/SerhatSelim)
